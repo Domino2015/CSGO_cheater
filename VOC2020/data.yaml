@@ -1,0 +1,5 @@
+train: ../VOC2020/train/images/
+val: ../VOC2020/train/images/
+
+nc: 1
+names: ['head']
